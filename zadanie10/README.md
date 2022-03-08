@@ -1,6 +1,5 @@
 #Zawartość
 
-----------------------------------------------------------------
 ###Katalog zawiera 1 program oraz pliki Readme i Makefile.
 
 I. Program main.c implementuje algorytm piekarni. 
@@ -9,9 +8,8 @@ pobiera wartość zmiennej globalnej i przypisuje jej wartość
 swojemu prywatnemu licznikowi. Potem inkrementuje ją. 
 Program używa sekwencji sterujących konsli do wypisywania wiadomości
 o sekcjach.
------------------------------------------------------------------
-Uruchamianie
------------------------------------------------------------------
+
+###Uruchamianie
 Za uruchamianie programu odpowiedzialny jest plik Makefile.
 Służy on też do archiwizacji i czyszczenia zbędnych plików 
 po kompilacji.
