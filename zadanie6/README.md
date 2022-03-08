@@ -1,7 +1,6 @@
 #Zawartość
 
 ----------------------------------------------------------------
-###Katalog zawiera 2 programy, bibliotekę z funkcjmioraz pliki Readme i Makefile.
 
 I. Program main.c tworzy semafor i wypisuje jego nazwę, wartość i adres.
 Potem tworzy plik numer.txt i wpisuje do niego liczbę 0.
@@ -15,12 +14,15 @@ numer.txt, zwiększa ją o 1 i zapisuje do pliku.
 III. Biblioteka semafory.c zawiera fukcje do tworzenia, otwierania,
 uzyskiwania wartości, podnoszenia, opuszczania, zamykania i niszczenia 
 semafora.
+
 -----------------------------------------------------------------
 Uruchamianie
 -----------------------------------------------------------------
+
 Za uruchamianie programu odpowiedzialny jest plik Makefile.
 Służy on też do archiwizacji i czyszczenia zbędnych plików 
 po kompilacji.
+
 -----------------------------------------------------------------
 Aby uruchomić program należy wpisać komendę 
     

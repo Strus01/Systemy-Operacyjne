@@ -1,7 +1,6 @@
 #Zawartość
 
 ----------------------------------------------------------------
-###Katalog zawiera 3 programy, 2 biblioteki z funkcjmi oraz pliki Readme i Makefile.
 
 I. Program main.c tworzy semafory i pamięć dzieloną,
 a następnie wypisuje ich nazwę, wartość i adres.
@@ -22,12 +21,15 @@ semafora.
 
 V. Biblioteka pamiec.c zawiera funkcje do tworzenia, otwierania,
 zamykania, mapowania, odmapowania, usuwania pamięci dzielonej.
+
 -----------------------------------------------------------------
 Uruchamianie
 -----------------------------------------------------------------
+
 Za uruchamianie programu odpowiedzialny jest plik Makefile.
 Służy on też do archiwizacji i czyszczenia zbędnych plików 
 po kompilacji.
+
 -----------------------------------------------------------------
 Aby uruchomić program z wykorzystaniem biblioteki statycznej należy 
 wpisać komendę 

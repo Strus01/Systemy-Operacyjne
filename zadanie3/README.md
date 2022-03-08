@@ -1,7 +1,6 @@
-#Zawartość
+# Zawartość
 
 ----------------------------------------------------------------
-###Katalog zawiera 3 programy oraz pliki Readme i Makefile.
 
 I.   Pierwszy program odpowiada za obsługę sygnałów.
 
@@ -13,9 +12,11 @@ on liderem swojej grupy i uruchamia w nim kilka procesów potomnych.
 Następnie z pierwszego procesu macierzystego wysyłany jest sygnał do
 całej grupy procesów potomnych. Lider grupy ignoruje ten sygnał i czeka na
 zakończenie wszystkich swoich procesów potomnych i zwraca ich status zakończenia.
+
 -----------------------------------------------------------------
 Uruchamianie
 -----------------------------------------------------------------
+
 Za uruchamianie programu odpowiedzialny jest plik Makefile.
 Służy on też do archiwizacji i czyszczenia zbędnych plików
 po kompilacji.
@@ -30,6 +31,7 @@ nr_obslugi:
 1) Operacja domyślna.
 2) Zignorowanie sygnału.
 3) Własna obsługa (przechwycenie sygnału).
+4) 
 -----------------------------------------------------------------
 Aby skompilować należy wpisać komendę
     

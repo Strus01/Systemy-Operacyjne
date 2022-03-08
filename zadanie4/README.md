@@ -1,16 +1,18 @@
-#Zawartość
+# Zawartość
 
 ----------------------------------------------------------------
-###Katalog zawiera 1 program oraz pliki Readme i Makefile.
 
 I. Program implementuje problem producenta i konsumenta za pomocą
    potoków nienazwanych.
+
 -----------------------------------------------------------------
 Uruchamianie
 -----------------------------------------------------------------
+
 Za uruchamianie programu odpowiedzialny jest plik Makefile.
 Służy on też do archiwizacji i czyszczenia zbędnych plików 
 po kompilacji.
+
 -----------------------------------------------------------------
 Aby uruchomić program należy wpisać komendę 
     

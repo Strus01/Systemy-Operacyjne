@@ -1,7 +1,6 @@
 #Zawartość
 
 ----------------------------------------------------------------
-###Katalog zawiera 2 programy, bibliotekę z funkcjmi oraz pliki Readme i Makefile.
 
 I. Program serwer.c tworzy kolejkę komunikatów w trybie do otwierania.
 Działa on w petli nieskończonej. Odczytuje on działanie wysłane przez
@@ -16,9 +15,11 @@ III. Biblioteka komunikaty służy do obsługi funkcji kolejki komunikatów POSI
 -----------------------------------------------------------------
 Uruchamianie
 -----------------------------------------------------------------
+
 Za uruchamianie programu odpowiedzialny jest plik Makefile.
 Służy on też do archiwizacji i czyszczenia zbędnych plików 
 po kompilacji.
+
 -----------------------------------------------------------------
 Aby uruchomić program należy wpisać komendę 
 
